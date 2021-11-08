@@ -8,3 +8,9 @@
  
  Code for all the problems can be found in
  https://github.com/ramalakshmi2020/InterestingProblems/tree/main/DataStructures/Arrays
+ 
+ Added File - Assignment5-Videos.docx for Assignment 5
+ 
+ Created the document file with youtube video links to the solutions for Assignment 5
+ 
+ Code link for each problem is added in the description of the respective youtube link.
